@@ -1,4 +1,4 @@
-# Money Counter Assembler
+# Robot arduino processing
 
 ![Main](https://raw.githubusercontent.com/edu5975/robot-arduino-processing/main/media/img1.png)
 ![Main](https://raw.githubusercontent.com/edu5975/robot-arduino-processing/main/media/img2.png)
